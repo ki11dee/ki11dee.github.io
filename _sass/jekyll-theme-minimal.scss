@@ -1,6 +1,70 @@
 @import "fonts";
 @import "rouge-github";
 
+p, article {
+  text-align: justify;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.two-column-container {
+  position: relative;
+  min-height: calc(100vh - 150px);
+}
+
+.sidebar {
+  position: fixed;
+  left: calc((100vw - 1200px) / 2);
+  top: 100px;
+  width: 300px;
+  height: calc(100vh - 100px);
+  background-color: none;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+.post-container {
+  margin-left: 320px;
+  padding: 20px;
+  overflow-y: auto;
+  min-height: calc(100vh - 100px);
+  box-sizing: border-box;
+}
+@media screen and (max-width: 957px) {
+  .wrapper {
+    max-width: 100%;
+    padding: 0 10px;
+  }
+  .two-column-container {
+    display: block;
+  }
+  .sidebar {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  .post-container {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  .sidebar, .post-container {
+    padding: 10px;
+  }
+}
+
 body {
   background-color: #1d178f;
   padding:50px;
