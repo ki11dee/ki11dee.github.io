@@ -6,7 +6,7 @@ layout: default
 title: "Welcome"
 ---
 
-![Hi](/assets/img/160435.png)
+![Hi](/assets/img/pond.png)
 
 Hi, I'm currently a physics major at university in South Korea. One reason I made here was making an archive of mine(and the other is just for studying, recording, and surfing). My native language is Korean so I'm planning to translate some of my notes from my private blog to here. 
 
