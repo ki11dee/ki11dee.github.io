@@ -1,11 +1,8 @@
 # BP
 
-*I made [a new blog](https://ki11dee.github.io/popcornparrot/) for my arts (written in korean)!*
+*I made [a new blog](https://ki11dee.github.io/popcornparrot/) for my arts (curretly only supported in korean)*
 
-- [Death and the Good ](./DG/dg.html)
-- [Short Sketches and typescripts]
-    - [DOGMAIAMGOD](./SS/DOGMA.html)
-    - [The Meanings]
+- Short Sketches and typescripts
     - [Dual Space](./SS/Dual_Space.html)
 
 

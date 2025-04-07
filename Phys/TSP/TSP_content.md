@@ -7,4 +7,4 @@ References are usually from *Concepts in Thermal Physics* by Blundell, *Statisti
     - [The First Law]
     - [The Second Law]
     - [Thermodynamics in Action]
-- [Statistical Mechanics]
+- [Basics of Statistical Mechanics]

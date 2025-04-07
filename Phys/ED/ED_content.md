@@ -1,4 +1,4 @@
-# Electromagnetism
+# Electromagnetism and Optics
 
 ![Map of ED](/assets/img/maped.png)
 

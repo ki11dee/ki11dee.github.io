@@ -4,6 +4,7 @@
 - Cipher
     - [Gold Bug and CTM](./Cipher/Cipher.html)
     - [Cryptography](./Cipher/Crypto.html)
+    - [Cicada3301]
 - Mathematical Music
     - [The Riddle Canon](./MM/Riddlecanon.html)
     - [Tonnetz](./MM/Tonnetz.html)
