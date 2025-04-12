@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Group Theory
 
 References are mainly in *Group Theory in a Nutshell for Physicists* by Zee, *Group Theory in Physics* by Wu-ki Tung, and sources from the Internet.
@@ -7,6 +11,10 @@ References are mainly in *Group Theory in a Nutshell for Physicists* by Zee, *Gr
 - [Tensor](./Tensor.html)
 - [Spinor](./Spinor.html)
 - [Manifolds](./Manifolds.html)
-- [Lie Group and Lie Alegbras](./Lie_Algebra.html)
+- [Poincare Group, Lie Group and Lie Alegbras](./Lie_Algebra.html)
 - [From Galileo to Majorana]
 - [The Gauged Universe]
+
+<div class="pagination">
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

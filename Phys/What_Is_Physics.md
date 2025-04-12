@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # What is Science? What is Physics, really...?
 
 > What does it mean to "exist"? What does it mean for something to "be" or "not be"? Is "meaning" something intrinsic to the message itself, or is it always created through interaction between a mind or some mechanism and the message?
@@ -24,3 +28,7 @@ Another issue is experimental verification. In scientific experiments, we compar
 For this reason, some physicists describe this as a "scientific belief." But the belief in question here isn’t like religious belief; rather, it’s closer to the "belief" from JTB (Justified True Belief) conditions in modern epistemology, which define knowledg, I guess.
 
 At least one thing is certain: science does not deal with science itself. The subjects of natural science are natural phenomena, not natural science itself. But who dare can say they know the *truth*? One thing a 'good scientist' can do is just being curious forever...
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

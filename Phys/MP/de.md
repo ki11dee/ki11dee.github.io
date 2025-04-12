@@ -1,8 +1,11 @@
+---
+layout: default
+---
+
+
 # Differential Equations
 
-## Related Topics
-- [Scientific Computation with Python, Matlab and Mathematica]
-- [Numerical Methods to solve PDEs](/Phys/CP/numerical_method.html)
+to be uploaded
 
 ## Ordinary Differential Equations
 
@@ -31,6 +34,10 @@
 
 ---
 
+## Related Topics
+- [Scientific Computation with Python, Matlab and Mathematica]
+- [Numerical Methods to solve PDEs](/Phys/CP/numerical_method.html)
+
 ## References
 [Differential Equation](https://en.wikipedia.org/wiki/Differential_equation)
 
@@ -43,3 +50,7 @@
 *Mathematical Methods for Physicists*, Arfken
 
 Some lecture notes
+
+<div class="pagination">
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

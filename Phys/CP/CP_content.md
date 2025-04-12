@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Computational Physics
 
 Here are the lists in Computational Physics tag:
@@ -14,3 +18,7 @@ Here are the lists in Computational Physics tag:
 - [Quantum Computation and Quantum Information](./qi.html)
 - [Tensor Networks]
 - [Chaos Theory](./chaos.html)
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # The Mental World Reflected in Art
 
 ![M.C. Escher's *Prentententoonstelling*, featuring a masterful use of curved perspective.](https://i.imgur.com/tLNJww1.png)
@@ -165,3 +169,8 @@ To what extent can we predict information about the painter from their painting?
 **Q. Does being smarter mean being better at drawing?**
 
 **A.** It depends. Intelligence itself is an ambiguous concept, but here we can consider it as academic intelligence. Drawing well means depicting appropriate subjects in a novel manner using suitable techniques. Generally, regardless of the field, the artistic inspiration and aesthetic sense that are important in drawing are unrelated to intelligence. However, higher intellectual ability may mean relatively superior problem-solving and adaptability, which could allow someone to more quickly hone their drawing techniques. It means the time required to master skills may be shortened, but those without technical aptitude will find it difficult to achieve true mastery. Anyone can become proficient in sketching, perspective, and symmetry with enough practice. Other factors are also unrelated to intelligence. Naturally, if you don’t practice drawing, you won’t be good at it.
+
+
+<div class="pagination">
+  <a href="{{ 'R/R_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

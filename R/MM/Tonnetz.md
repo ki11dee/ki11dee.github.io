@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Tonnetz
 
 ## Related Topics
@@ -136,3 +141,7 @@ $$
 Neo-Riemannian tonnetz를 이용한 변환으로써의 음악의 수학적 분석과 작곡방법 고안
 
 *음악 수학*, 데이비드 밴슨
+
+<div class="pagination">
+  <a href="{{ 'R/R_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

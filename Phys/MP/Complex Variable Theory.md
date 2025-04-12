@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Complex Variable Theory
 
 ## 1. Complex Variables and Functions
@@ -212,3 +217,6 @@ $I = \int_0^\infty \frac{dx}{1 + x^n} \qquad \text{Answer: } \frac{\pi}{n\sin{(\
 
 $I = \int_0^1\frac{1}{x^2 - x^3}^{1/3}dx \qquad \text{Answer: } 2\pi/\sqrt{3}$
 
+<div class="pagination">
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

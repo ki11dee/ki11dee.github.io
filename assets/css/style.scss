@@ -67,3 +67,13 @@ details {
   details[open] summary {
     color: #0056b3;
   }
+
+  .prev-button {
+    display: inline-block;
+    padding: 8px 10px;
+    background-color: #464646;
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 12px;
+  }

@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Gold Bug and CTM
 
 In *The Gold-Bug* by Edgar Allan Poe, the protagonist's friend Legrand uses a decryption method for Captain Kidd's cryptogram based on the frequency stability of encoded symbols. Poe was well-versed in cryptography, as evidenced by a short treatise on cryptography that he wrote before publishing the novel, which explained the basic principles of cryptography in detail. Indeed, Poe had a notable talent for solving ciphers.
@@ -77,3 +82,7 @@ If CTM were to be revised, the most promising discussion would probably be numbe
 Will mind theories be proven during the 21st century, and if so, will technology advance enough for me to apply these findings in my pursuits? I still cannot provide a definite answer. I would like to add a personal note of ambivalence toward one of Professor Roger Penrose. Regardless of truth, I genuinely cannot tell if investigating the theory of mind is truly meaningful. Pouring my youthful energy into skepticism and exploration, fully believing my ideas are right beyond any doubt. Yet, perhaps all of this is nothing but a challenge to fate in my youth. When I begin to age and lose vitality, will I still hold onto the same passionate drive? And if I lose that drive, will my thoughts change as well? But still I cannot stop my journey toward truth. Only in this way can I understand this problem—or perhaps, my end. One of Penrose's books, *The Emperor's New Mind*, ends with the following:
 
 > "I remember, myself, being troubled by many such puzzles as a child. Perhaps my own consciousness might suddenly get exchanged with someone else's. How would I ever know whether such a thing might not have happened to me earlier assuming that each person carries only the memories pertinent to that particular person? How could I explain such an 'exchange' experience to someone else? Does it really mean anything? Perhaps I am simply living the same ten minutes' experiences over and over again, each time with exactly the same perceptions. Perhaps only the present instant 'exists' for me. Perhaps the 'I' of tomorrow, or of yesterday, is really a quite different person with an independent consciousness. Perhaps I am actually living backwards in time, with my stream of consciousness heading into the past, so my memory really tells me what is going to happen to me rather than what has happened to me so that unpleasant experience at school is really something that is in store for me and I shall, unfortunately, shortly actually encounter. Does the distinction between that and the normally experienced time progression actually 'mean' something, so that the one is 'wrong' and the other 'right'? For the answers to such questions to be resolvable in principle, a theory of consciousness would be needed. But how could one even begin to explain the substance of such problems to an entity that was not-itself-conscious?..."
+
+<div class="pagination">
+  <a href="{{ 'R/R_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

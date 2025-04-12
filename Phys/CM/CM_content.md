@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Classical Mechanics and Relativity
 
 ![Map of CM](/assets/img/mapcm.png)
@@ -8,3 +12,7 @@ This category basically includes college and graduate level Classical Mechanics,
 - [Lagrangian and Hamiltonian Formulation](./lagham.html)
 - [The Motion of Rigid Bodies]
 - [KAM Theory]
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Special Functions
 
 ## 1. Gamma Function
@@ -161,3 +165,9 @@ $F(\alpha, \beta, \gamma, z)=1+\frac{\alpha \beta}{\gamma}\frac{z}{1!}+\frac{\al
 Various reading materials on the Internet
 
 *Quantum Mechanics*, Landau
+
+
+
+<div class="pagination">
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

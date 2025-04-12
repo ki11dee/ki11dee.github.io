@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Linear Algebra Basics
 
 ![Matrix](https://i.imgur.com/Tn046ii.png)
@@ -161,3 +166,7 @@ Becasue we arbitrarily set the eigenvectors orthognal, so $S^T=S^{-1}$. If inclu
   - If $Ax = \lambda x$ and $\lambda$ is a simple eigenvalue, is $x = cx'$?
 
 - If eigenvalues are not distinct, can eigenvectors for repeated eigenvalues form a linearly independent set? > Use geometric reasoning. (How?) [related topic: characteristic polynomial](https://en.wikipedia.org/wiki/Characteristic_polynomial)
+
+<div class="pagination">
+  <a href="{{ '/Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

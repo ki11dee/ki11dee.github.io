@@ -38,6 +38,9 @@ social_links:
   - name: Blog
     url: https://ki11dee.github.io/popcornparrot/
     icon: /assets/img/text.png
+  - name: Twitter
+    url: https://x.com/vkqzhs0_0
+    icon: /assets/img/x.png
 
 # Build settings
 theme: jekyll-theme-minimal
@@ -64,3 +67,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: 
+  - BP
+  - P
+  - Phys
+  - R
+  - assets

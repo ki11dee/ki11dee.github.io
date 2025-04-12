@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Spectral Theory of Linear Operators
 
 ## Introduction
@@ -20,3 +24,7 @@ Instead of relying on a basis, it makes more sense to focus on the relations bet
 [Spectral Theory of Linear Operators] [PDF](./Spectral_Theory.pdf)
 
 [Mathematical Background of Spectral Theory](https://en.wikipedia.org/wiki/Spectral_theory)
+
+<div class="pagination">
+  <a href="{{ '/Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

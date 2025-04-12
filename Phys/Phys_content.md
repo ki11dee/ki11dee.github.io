@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Physics
 
 The Maps of Physics are noted items from *No-Nonsense Physics* series and *Teach Yourself Physics* by Schwichtenberg. These books are not for major because they deal with very brief basics of Physics, yet it's simply compact and useful. I refer to his diagrams for better understanding from the moment, but I will make them by myself later.
@@ -10,3 +14,7 @@ The Maps of Physics are noted items from *No-Nonsense Physics* series and *Teach
 - Thermal and Statistical Physics [TSP](./TSP/TSP_content.html)
 - Solid State Physics [SP](./SP/SP_content.html)
 - Computational Physics [CP](./CP/CP_content.html)
+
+<div class="pagination">
+  <a href="{{ '/index.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

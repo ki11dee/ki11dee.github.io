@@ -1,9 +1,13 @@
+---
+layout: default
+---
+
 # Mathematical Methods for Physics
 
 
 - Linear Algebra
     - [Linear Algebra](./LA/linear_algebra.html)
-    - [Map](./Map.html)
+    - [Map](./LA/Map.html)
     - [Operator Theory](./LA/operator.html)
     - [Spectral Theory](./LA/Spectral.html)
 - [Fourier Transforms](./ft.html)
@@ -22,6 +26,10 @@
     - [Group Theory](./G/group.html)
         - Matrix Representation
         - Tensor, Spinor, Manifolds
-        - Lie Group and Lie Alegbras
+        - Poincare Group, Lie Group and Lie Alegbras
 
 - [Mathematical Logic](/P/logic.html)
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

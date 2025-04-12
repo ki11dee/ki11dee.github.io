@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Solid State Physics
 
 Here are the lists in Solid State Physics tag:
@@ -7,3 +11,7 @@ Here are the lists in Solid State Physics tag:
 - [Band Theory and Electronic Properties of Solids]
 - [Band Structure] [PDF](https://www.damtp.cam.ac.uk/user/tong/aqm/solid2.pdf)
 - [TB Hamiltonian Simulations](./tbh.html)
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

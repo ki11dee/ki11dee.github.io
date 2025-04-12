@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Philosophical and Mathematical Logic
 
 - [Sets](./sets.html)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Magic Cubology
 
 If you take a look at a cube, you’ll notice that the structure is covered by smaller pieces called cubies, which include the corners, the center (core) in the middle of each face, and the edges. This is the case for a 3x3x3 cube, and while cubes of higher or lower orders might differ slightly, the overall structure is similar. Corners and edges can change orientation by flipping or rotating, and it’s known how to cycle the positions of three pieces using a 3-cycle. You could argue that that’s about all you can do with them, really.
@@ -21,7 +25,7 @@ Just as there is a baryon octet, in music, we find that notes form a circle of f
 
 ### Code Simulation Demo
 
-to be uploaded
+under construction :/
 
 
 --- 
@@ -32,3 +36,8 @@ to be uploaded
 [15 Puzzles](https://kconrad.math.uconn.edu/blurbs/grouptheory/15puzzle.pdf)
 
 *Metamagical Themas*, D.R.Hofstadter
+
+
+<div class="pagination">
+  <a href="{{ 'R/R_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

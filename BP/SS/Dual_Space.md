@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Dual Space
 
 Reality in the foreground stands,  
@@ -16,3 +20,7 @@ Real and imaginary intertwined
 What truth lingers in our mind?  
 Dual forms in infinite span  
 Serene resonance of the real plane  
+
+<div class="pagination">
+  <a href="{{ '/BP/BP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Symmetry in Music
 
 ## Related Topics
@@ -238,3 +242,7 @@ $$
 [Group Action](https://en.wikipedia.org/wiki/Group_action)
 
 *음악 수학*, 데이비드 밴슨
+
+<div class="pagination">
+  <a href="{{ 'R/R_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Fourier Transforms
 
 ## 0. Sturm-Liouville Theory
@@ -260,3 +264,8 @@ FFT is a particular algorithm used in DFT.
 [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://youtu.be/h7apO7q16V0?si=1LbfkI8O8BAHTUBK)
 
 *Mathematical Methods for Physicists*, Arfken
+
+
+<div class="pagination">
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>

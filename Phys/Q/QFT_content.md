@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Quantum Mechanics and Quantum Field Theory
 ![Map of QM](/assets/img/mapqm.png)
 
@@ -19,3 +23,7 @@ There's couple of good lecture notes by David Tong; Lecture notes on [QFT](https
     - [Feynman Diagram](./feynmandiag.html)
 - [Gauge Theory](./gauge.html)
 - [Solitons]
+
+<div class="pagination">
+  <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
+</div>
