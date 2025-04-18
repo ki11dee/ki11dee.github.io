@@ -102,5 +102,5 @@ to be uploaded
 
 
 <div class="pagination">
-  <a href="{{ '/Phys/MP/G/group.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

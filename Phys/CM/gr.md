@@ -2,7 +2,8 @@
 layout: default
 ---
 
-# Lagrangian and Hamiltonian Formalisms
+# General Relativity
+
 
 under construction :/
 

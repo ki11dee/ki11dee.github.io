@@ -23,10 +23,12 @@ layout: default
     - [Topology](./AAT/Topology_basics.html)
     - [Abstract Algebra](./AAT/Abstract_basics.html)
     - [Differential Form](./AAT/Differential_form.html)
-    - [Group Theory](./G/group.html)
-        - Matrix Representation
-        - Tensor, Spinor, Manifolds
-        - Poincare Group, Lie Group and Lie Alegbras
+    - Group Theory
+      - [Groups, Representing Group Elements by Matrices](./G/Group_basics.html)
+      - [Tensor](./G/Tensor.html)
+      - [Spinor](./G/Spinor.html)
+      - [Manifolds](./G/Manifolds.html)
+      - [Poincare Group, Lie Group and Lie Alegbras](./G/Lie_Algebra.html)
 
 - [Mathematical Logic](/P/logic.html)
 

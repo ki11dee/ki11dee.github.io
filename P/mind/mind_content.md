@@ -4,7 +4,7 @@ layout: default
 
 # On a Mind
 
-This series of articles was written when I was transitioning from high school to my freshman year of university, during a time when I was deeply interested in the human mind. I read Hofstadter’s books and studied cognitive science as a hobby. A few years have passed since then; although my curiosity about the mind has gradually faded, I still find my writings from that time interesting.
+This series of articles was written when I was transitioning from high school to my freshman year of university, during a time when I was deeply interested in the human mind. I read Hofstadter’s books and studied cognitive science as a hobby. A few years have passed since then. Although my curiosity about the mind has gradually faded, I still find my writings from that time interesting.
 
 
 - [What is Mind??](./1.html)
