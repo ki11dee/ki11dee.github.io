@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Group Theory
 
 ## 1. Symmetry in Groups
 

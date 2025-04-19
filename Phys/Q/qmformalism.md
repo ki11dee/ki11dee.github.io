@@ -136,7 +136,8 @@ At a given time $t$, the state of a system is described by a vector $\ket{\Psi(t
 
 Quantum mechanics relies fundamentally on the quantum hypothesis, part of which states that classical observables (such as the dynamical variables representing the system, e.g., position $\vec{x}=(x_1,x_2,x_3)$ and conjugate momentum $\vec{p}=(p_1,p_2,p_3)$) correspond to linear Hermitian operators $\hat{x}_i, \hat{p}_i$ defined on the Hilbert space $\mathcal{H}$. These operators satisfy the commutation relation: $$
 [x_i, p_i] = i\hbar$$.
----
+
+----
 In Hamiltonian classical mechanics, given two functions $f(p_i,q_i,t)$ and $g(p_i,q_i,t)$ defined on phase space $(T\mathbb{R}^n)^*$ with coordinates $(q_i,p_i)$ at time $t$, the Poisson bracket is defined as:
 
 $$
@@ -191,13 +192,16 @@ $$
 
 When measuring an observable $F$, the measured value is one of the eigenvalues $a_1,\dots$ of operator $\hat{F}$. The eigenvectors $\ket{a_i}$ corresponding to these eigenvalues form a complete orthonormal basis in $\mathcal{H}$. Upon measurement, if the observed value is $a_i$, the system's state collapses from $\ket{\Psi}$ to $\ket{a_i}$.
 
-This quantum hypothesis aligns with Dirac's formalism or David Bohm’s **expansion postulate**. Generally, eigenvectors of operators such as $\hat{x}$ do not reside strictly within $\mathcal{H}$, necessitating an extension of $\mathcal{H}$ to a larger space known as a rigged Hilbert space (Gelfand triplet):
+----
+This quantum hypothesis aligns with Dirac's formalism or David Bohm’s **expansion postulate**. Generally, eigenvectors of operators such as $\hat{x}$ do not reside strictly within $\mathcal{H}$, necessitating an extension of $\mathcal{H}$ to a larger space known as a [rigged Hilbert space (Gelfand triplet)](https://en.wikipedia.org/wiki/Rigged_Hilbert_space):
 
 $$
 \Phi \subset \mathcal{H} \subset \Phi^\times
 $$
 
 Here, $\Phi$ is a dense subspace of $\mathcal{H}$ satisfying $$\hat{x}(\Phi)\subseteq \Phi, \hat{p}(\Phi)\subseteq \Phi, \hat{H}\subseteq \Phi$$, and $\Phi^\times$ is the space of anti-linear functionals defined on $\Phi$. Eigenvectors $\ket{x}$ of operator $\hat{x}$ specifically lie in $\Phi^\times$. This approach rigorously handles generalized eigenvectors through the generalized spectral theorem.
+
+----
 
 ### 1.5. Probabilistic Interpretation of Observables
 
@@ -230,5 +234,5 @@ Solutions to this differential equation exist only when $a$ is a non-negative in
 
 
 <div class="pagination">
-  <a href="{{ '/Phys/Q/QFT_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ '/Phys/Q/Q_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

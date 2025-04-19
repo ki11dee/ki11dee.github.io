@@ -14,7 +14,7 @@ These limitations of classical quantum mechanics must be overcome through a more
 First, consider the concept and meaning of a **quantum field**. In quantum mechanics, a single particle undergoing SHO has a set of eigenvectors $\ket{n} (n=0,1,\dots)$ of the Hamiltonian operator $\hat{H}$ that form an orthonormal basis for the state space. Thus, any arbitrary state vector can be expressed as a linear combination of these eigenvectors. Particularly, for the particle's position eigenstate $\ket{x}$, we have:
 
 $$
-\ket{x} = \sum_n \ket{n}\braket{n\|x}.
+\ket{x} = \sum_n \ket{n}\braket{n|x}.
 $$
 
 Each $\ket{n}$ represents a specific energy state of a **single particle**, with no concept of particle creation or annihilation. However, we can reinterpret this using the operators $\hat{a}, \hat{a}^\dagger$:
@@ -34,7 +34,7 @@ Here, $\ket{0}$ can be reinterpreted as the vacuum state, representing a quantum
 Thus, the position state can be rewritten as:
 
 $$
-\ket{x} = \left(\sum_n\braket{n\|x}\hat{a}_n^\dagger\right)\ket{0}.
+\ket{x} = \left(\sum_n\braket{n|x}\hat{a}_n^\dagger\right)\ket{0}.
 $$
 
 Defining $c_n=\braket{n\|x}$ (with $\|c_n\|^2$ being the probability of measuring energy $E_n$ for state $\ket{x}$):
@@ -52,7 +52,7 @@ $$
 Here, $\hat{a}_x^\dagger$ is interpreted as a creation operator generating a quantum particle at position $x$ from the vacuum state. Explicitly:
 
 $$
-\hat{a}_x^\dagger = \sum_n\Psi_n(x)^*\hat{a}_n^\dagger, \quad (\Psi_n(x)\equiv\braket{x\|n} \text{ are energy eigenfunctions})
+\hat{a}_x^\dagger = \sum_n\Psi_n(x)^*\hat{a}_n^\dagger, \quad (\Psi_n(x)\equiv\braket{x|n} \text{ are energy eigenfunctions})
 $$
 
 Similarly, define an annihilation operator at position $x$:
@@ -76,7 +76,7 @@ $$
 with the orthonormality and completeness conditions:
 
 $$
-\braket{\Psi_n\|\Psi_m}=\delta_{nm}, \quad \sum_n\Psi_n(x)\Psi_n(x')=\delta(x-x').
+\braket{\Psi_n|\Psi_m}=\delta_{nm}, \quad \sum_n\Psi_n(x)\Psi_n(x')=\delta(x-x').
 $$
 
 In quantum field theory, $\Psi(t,x)$ is no longer interpreted as a single-particle wavefunction but as a dynamical field satisfying equations of motion (similar to the Schrödinger equation) at each position $x$. To justify this rigorously, one must show that the quantized fields obtained from canonical quantization satisfy the same equations of motion as the original classical fields. Indeed, quantized fields such as the non-relativistic Schrödinger field, scalar fields (Klein-Gordon equation), Dirac fields (Dirac equation), and electromagnetic fields (Maxwell equations) all satisfy this requirement. The quantum properties of these fields are described through the creation and annihilation of their constituent quanta. Defining:
@@ -140,5 +140,5 @@ $$
 
 
 <div class="pagination">
-  <a href="{{ '/Phys/Q/QFT_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ '/Phys/Q/Q_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

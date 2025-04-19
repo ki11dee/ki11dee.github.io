@@ -5,7 +5,7 @@ layout: default
 # Symmetry in Music
 
 ## Related Topics
-- [Group Theory](/Phys/MP/G/group.html)
+- [Group Theory](/Phys/MP/G/Group_basics.html)
 - [Abstract Algebra](/Phys/MP/AAT/Abstract_basics.html)
 
 ## 1. Symmetry
