@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Poincare Group, Lie Group and Lie Algebra
+# Poincare Group, Lie Groups and Lie Algebras
 
 ![p](/assets/img/20250412_225321230.jpg)
 
@@ -35,7 +35,7 @@ Then
 $$v' = \begin{pmatrix}e^{i\theta} & 0\\0 & e^{-i\theta}\end{pmatrix} \begin{pmatrix}0 & 1\\-1 & 0\end{pmatrix} \begin{pmatrix}e^{-i\theta} & 0\\0 & e^{i\theta}\end{pmatrix} = \begin{pmatrix}0 & \cos 2\theta + i\sin 2\theta\\ -\cos 2\theta + i\sin 2\theta & 0\end{pmatrix}$$ 
 $$= \begin{pmatrix}iv_z' & v_x' + iv_y'\\ -v_x' + iv_y' & -iv_z'\end{pmatrix}$$
 
-which yields $$v'_x = \cos 2\theta$, $v'_y = \sin 2\theta$, $v'_z = 0$$.  
+which yields $$v'_x = \cos 2\theta, v'_y = \sin 2\theta, v'_z = 0$$.  
 Therefore, in conventional vector notation, $\vec{v'} = (\cos 2\theta, \sin 2\theta, 0)^T$. Defining $\phi \equiv 2\theta$, we get $t = \cos(\phi/2) + \sin(\phi/2) u$. From this, we can see that the mapping is not one-to-one — two unit quaternions describe the same rotation. For instance, $t_{\phi = \pi} = u$, $t_{\phi = 3\pi} = -u$ both describe the same transformation by $\pi$. This is why $SU(2)$ is the **double cover** of $SO(3)$.
 
 Now, what if we want to describe rotations in 4 dimensions (i.e., $4 \times 4$ matrices)? There are two options. One is to find even higher-dimensional complex numbers. The other is to attempt using quaternions. In the latter case, something meaningful arises regarding 4D rotations. These are described by 6 parameters, and two unit quaternions together have exactly 6 free parameters. This reveals a deep connection between 4D rotations and **two copies of $SU(2)$**.
@@ -84,8 +84,7 @@ Lie algebra is closed under the Lie braket $[,]$. There is exactly one **disting
     $\rightarrow J^T+J=0$  
     $\det{e^{\theta J}}=e^{\theta\text{Tr}(J)}=1 \rightarrow
      \text{Tr}(J)=0$  
-    Basis matrices for the generators of $SO(3)$ is $$J=aJ_1+bJ_2+cJ_3$, $(J_i)_{jk}
-    =-\epsilon_{ijk}$$.  Result with the generators of the group in explicit matrix form, $[J_j,J_k]=\epsilon_{ijk}J_k$. Now call the Lie bracket relation of the basis generators the Lie algebra $[J_i,J_j]=i\epsilon_{ijk}J_k$ (additional $i$ is to get Hermitian generators) 
+    Basis matrices for the generators of $SO(3)$ is $$J=aJ_1+bJ_2+cJ_3, (J_i)_{jk}=-\epsilon_{ijk}$$.  Result with the generators of the group in explicit matrix form, $[J_j,J_k]=\epsilon_{ijk}J_k$. Now call the Lie bracket relation of the basis generators the Lie algebra $[J_i,J_j]=i\epsilon_{ijk}J_k$ (additional $i$ is to get Hermitian generators) 
     
 - the generators and Lie algebra of $SU(2)$
 
@@ -133,7 +132,7 @@ is Lorentz group(rotation + boosts) + translations
 -----
 ## References
 
-Physics from Symmetry, Schwichtenberg
+*Physics from Symmetry*, Schwichtenberg
 
 [Lie groups, algebras, brackets](https://www.youtube.com/playlist?list=PLDcSwjT2BF_WDki-WvmJ__Q0nLIHuNPbP)
 

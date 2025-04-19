@@ -4,7 +4,6 @@ layout: default
 
 # Solid State Physics
 
-Here are the lists in Solid State Physics tag:
 
 - [Quantum Hall Effect]
 - [Topological Insulators]

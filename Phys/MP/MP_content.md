@@ -28,7 +28,7 @@ layout: default
       - [Tensor](./G/Tensor.html)
       - [Spinor](./G/Spinor.html)
       - [Manifolds](./G/Manifolds.html)
-      - [Poincare Group, Lie Groups and Lie Alegbras](./G/Lie_Algebra.html)
+      - [Poincare Group, Lie Groups and Lie Algebras](./G/Lie_Algebra.html)
 
 - [Mathematical Logic](/P/logic.html)
 

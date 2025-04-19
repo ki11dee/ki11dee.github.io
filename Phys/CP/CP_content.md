@@ -4,8 +4,6 @@ layout: default
 
 # Computational Physics
 
-Here are the lists in Computational Physics tag:
-
 - Machine Learning and Deep Learning
     - [Pytorch](./pytorch.html)
 - Crystal Structure Prediction using ML
