@@ -4,6 +4,8 @@ layout: default
 
 # Mathematical Methods for Physics
 
+![m](/assets/img/mmp.jpg)
+
 
 - Linear Algebra
     - [Linear Algebra](./LA/linear_algebra.html)
