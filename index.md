@@ -8,7 +8,7 @@ title: "Welcome"
 
 ![Hi](/assets/img/pond.png)
 
-Hi, I'm currently a physics major at university in South Korea. One reason I made here was making an archive of mine(and the other is just for studying, recording, and surfing). My native language is Korean so I'm planning to translate some of my notes from my private blog to here. 
+Hi, I'm currently a student at university in South Korea. One reason I made here was making an archive of mine(and the other is just for studying, recording, and surfing). My native language is Korean so I'm planning to translate some of my notes from my private blog to here. 
 
 Main interests: 
 
