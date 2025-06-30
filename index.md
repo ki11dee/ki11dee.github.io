@@ -12,15 +12,13 @@ Hi, I'm currently a student at university in South Korea. One reason I made here
 
 Main interests: 
 
-1. Physics, Art \| home base  
-Additional tags:
-- Physics and Mathematics [PhyX](./Phys/Phys_content.html)
-- Some art portfolios [BP](./BP/BP_content.html)
+1. Mathematics and Physics
+- [PhyX](./Phys/Phys_content.html)
 
-2. Philosophy, language \| second base
+2. Philosophy and language
 - Philosophy [P](./P/P_content.html)
 
-3. Tactics, music theory, riddle | simple curiosities
+3. Tactics, music theory, riddle
 - Art Theory and Riddles [R](./R/R_content.html)
 
 4. Cubing, SF, spooky tales, other play \| experimental mind.

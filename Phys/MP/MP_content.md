@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mathematical Methods for Physics
+# Mathematical Methods
 
 ![m](/assets/img/mmp.jpg)
 
