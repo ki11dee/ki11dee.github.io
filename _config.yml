@@ -34,19 +34,20 @@ url: "https://ki11dee.github.io" # the base hostname & protocol for your site, e
 
 github_username:  ki11dee
 
-social_links:
-  - name: Tumblr
-    url: https://ki11dee.tumblr.com/
-    icon: /assets/img/tumblr.png
-  - name: Bluesky
-    url: https://bsky.app/profile/vkqzhs0-0.bsky.social
-    icon: /assets/img/bluesky.png
-  - name: Blog
-    url: https://ki11dee.github.io/popcornparrot/
-    icon: /assets/img/text.png
-  - name: Twitter
-    url: https://x.com/vkqzhs0_0
-    icon: /assets/img/x.png
+#social_links:
+#  - name: Tumblr
+#    url: https://ki11dee.tumblr.com/
+#    icon: /assets/img/tumblr.png
+#  - name: Bluesky
+#    url: https://bsky.app/profile/vkqzhs0-0.bsky.social
+#    icon: /assets/img/bluesky.png
+#  - name: Blog
+#    url: https://ki11dee.github.io/popcornparrot/
+#    icon: /assets/img/text.png
+#  - name: Twitter
+#    url: https://x.com/vkqzhs0_0
+#    icon: /assets/img/x.png
+    
 
 # Build settings
 theme: jekyll-theme-minimal
