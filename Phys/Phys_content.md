@@ -4,7 +4,40 @@ layout: default
 
 # Mathematics
 
-- [MP](./MP/MP_content.html)
+![m](/assets/img/mmp.jpg)
+
+- [Mathematical Statistics]
+    - [Probability theory]
+    - [Measure Theory]
+- [Mathematical Analysis]
+
+- [Linear Algebra](./MP/LA/linear_algebra.html)
+  - [Map](./LA/Map.html)
+  - [Operator Theory](./MP/LA/operator.html)
+  - [Spectral Theory](./MP/LA/Spectral.html)
+- [Fourier Transforms](./MP/ft.html)
+- [Green's Functions](./MP/gf.html)
+
+- [Differential Equations](./MP/de.html)
+- [Special Functions](./MP/special_functions.html)
+- [Complex Variable Theory](./MP/Complex%20Variable%20Theory.html)
+
+- [Category Theory]
+
+- [Game Theory]
+
+- [Topology](./MP/AAT/Topology_basics.html)
+- [Abstract Algebra](./MP/AAT/Abstract_basics.html)
+- [Differential Form](./MP/AAT/Differential_form.html)
+- Group Theory
+    - [Groups, Representing Group Elements by Matrices](./MP/G/Group_basics.html)
+    - [Tensor](./MP/G/Tensor.html)
+    - [Spinor](./MP/G/Spinor.html)
+    - [Manifolds](./MP/G/Manifolds.html)
+    - [Poincare Group, Lie Groups and Lie Algebras](./MP/G/Lie_Algebra.html)
+
+- [Mathematical Logic](/P/logic.html)
+
 
 
 # Physics
