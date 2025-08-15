@@ -10,15 +10,12 @@ title: "Welcome"
 
 Hi, I'm currently a student at university in South Korea. One reason I made here was making an archive of mine(and the other is just for studying, recording, and surfing). My native language is Korean so I'm planning to translate some of my notes from my private blog to here. 
 
-Main interests: 
+List of main interests: 
 
-1. Mathematics and Physics
-- [PhyX](./Phys/Phys_content.html)
+1. [Mathematics and Physics](./Phys/Phys_content.html)
 
-2. Philosophy and language
-- Philosophy [P](./P/P_content.html)
+2. [Philosophy and language](./P/P_content.html)
 
-3. Tactics, music theory, riddle
-- Art Theory and Riddles [R](./R/R_content.html)
+3. [Music, Art Theory and Riddles](./R/R_content.html)
 
 4. Artworks, SF, spooky tales, other play \| [experimental mind](https://ki11dee.github.io/popcornparrot/index_en.html)
