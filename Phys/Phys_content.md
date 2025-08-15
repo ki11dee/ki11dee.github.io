@@ -6,10 +6,10 @@ layout: default
 
 ![m](/assets/img/mmp.jpg)
 
-- [Mathematical Statistics]
+- [Statistics]
     - [Probability theory]
     - [Measure Theory]
-- [Mathematical Analysis]
+- [Analysis]
 
 - [Linear Algebra](./MP/LA/linear_algebra.html)
   - [Map](./LA/Map.html)
@@ -36,8 +36,14 @@ layout: default
     - [Manifolds](./MP/G/Manifolds.html)
     - [Poincare Group, Lie Groups and Lie Algebras](./MP/G/Lie_Algebra.html)
 
-- [Mathematical Logic](/P/logic.html)
+- [Logic and Computer Science](/P/logic.html)
 
+- [Combinatorics]
+- [Number Theory]
+- [Algebraic Geometry]
+- [Graph Theory]
+
+- [Langlands Program]
 
 
 # Physics
@@ -51,6 +57,11 @@ The Maps of Physics are noted items from *No-Nonsense Physics* series and *Teach
 - Thermal and Statistical Physics [TSP](./TSP/TSP_content.html)
 - Solid State Physics [SP](./SP/SP_content.html)
 - Computational Physics [CP](./CP/CP_content.html)
+- Particle Physics [PP]
+- String Theory [SS]
+
+- Fluid Mechanics
+
 
 <div class="pagination">
   <a href="{{ '/index.html' | relative_url }}" class="prev-button">Previous</a>

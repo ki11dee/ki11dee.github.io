@@ -21,4 +21,4 @@ Main interests:
 3. Tactics, music theory, riddle
 - Art Theory and Riddles [R](./R/R_content.html)
 
-4. Cubing, SF, spooky tales, other play \| experimental mind.
+4. Artworks, SF, spooky tales, other play \| [experimental mind](https://ki11dee.github.io/popcornparrot/index_en.html)
