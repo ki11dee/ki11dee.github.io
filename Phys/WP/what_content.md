@@ -9,6 +9,7 @@ layout: default
 - [What Does It Mean to Measure Physical Quantities?](measure.html)
 - [Theory, Model and Reality](./model.html)
 - [Induction in Science](./induction.html)
+- [Emergence in Physics(ko)](./emergence.html)
 
 ----
 What does it mean to "exist"? What does it mean for something to "be" or "not be"? Is "meaning" something intrinsic to the message itself, or is it always created through interaction between a mind or some mechanism and the message? When does something that is the same become not the same? When is an object no longer truly identical as itself?
