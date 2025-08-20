@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2024-12-25
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Fourier Transforms
 
@@ -267,5 +270,5 @@ FFT is a particular algorithm used in DFT.
 
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

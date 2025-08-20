@@ -1,7 +1,9 @@
 ---
 layout: default
+date: 2024-10-05
 ---
 
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Complex Variable Theory
 
@@ -218,5 +220,5 @@ $I = \int_0^\infty \frac{dx}{1 + x^n} \qquad \text{Answer: } \frac{\pi}{n\sin{(\
 $I = \int_0^1\frac{1}{x^2 - x^3}^{1/3}dx \qquad \text{Answer: } 2\pi/\sqrt{3}$
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

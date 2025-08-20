@@ -10,7 +10,6 @@ under construction :/
 
 
 ----
-## References
 
 *Physics from Symmetry*, Schwichtenberg
 

@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2024-12-30
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Symmetry in Music
 

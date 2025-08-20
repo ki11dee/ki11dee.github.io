@@ -5,7 +5,7 @@ layout: default
 
 # Differential Equations
 
-to be uploaded
+TBA
 
 ## Ordinary Differential Equations
 
@@ -52,5 +52,5 @@ to be uploaded
 Some lecture notes
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

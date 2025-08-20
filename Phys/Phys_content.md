@@ -6,13 +6,13 @@ layout: default
 
 ![m](/assets/img/mmp.jpg)
 
-- [Statistics]
-    - [Probability theory]
-    - [Measure Theory]
-- [Analysis]
+- Statistics
+    - Probability theory
+    - Measure Theory
+
+- Analysis
 
 - [Linear Algebra](./MP/LA/linear_algebra.html)
-  - [Map](./LA/Map.html)
   - [Operator Theory](./MP/LA/operator.html)
   - [Spectral Theory](./MP/LA/Spectral.html)
 - [Fourier Transforms](./MP/ft.html)
@@ -22,12 +22,12 @@ layout: default
 - [Special Functions](./MP/special_functions.html)
 - [Complex Variable Theory](./MP/Complex%20Variable%20Theory.html)
 
-- [Category Theory]
+- Category Theory
 
-- [Game Theory]
+- Game Theory
 
 - [Topology](./MP/AAT/Topology_basics.html)
-- [Abstract Algebra](./MP/AAT/Abstract_basics.html)
+- Abstract Algebra
 - [Differential Form](./MP/AAT/Differential_form.html)
 - Group Theory
     - [Groups, Representing Group Elements by Matrices](./MP/G/Group_basics.html)
@@ -36,15 +36,18 @@ layout: default
     - [Manifolds](./MP/G/Manifolds.html)
     - [Poincare Group, Lie Groups and Lie Algebras](./MP/G/Lie_Algebra.html)
 
-- [Logic and Computer Science](/P/logic.html)
+- [Logic and Computer Science](/P/logic/logic_content.html)
 
-- [Combinatorics]
-- [Number Theory]
-- [Algebraic Geometry]
-- [Graph Theory]
+- Combinatorics
+- Number Theory
+- Algebraic Geometry
+- Graph Theory
 
-- [Langlands Program]
+- Knot Theory
 
+- Langlands Program
+
+- [Conformal Field Theory](./MP/cft.html)
 
 # Physics
 
@@ -57,11 +60,11 @@ The Maps of Physics are noted items from *No-Nonsense Physics* series and *Teach
 - [Thermal and Statistical Physics](./TSP/TSP_content.html)
 - [Solid State Physics](./SP/SP_content.html)
 - [Computational Physics](./CP/CP_content.html)
-- [Particle Physics]
-- [String Theory]
+- [Particles Physics, String Theory and Beyond](./ST/ST_content.html)
 
-- [Fluid Mechanics]
+- Fluid Mechanics
 
+- [A Topos Foundation for Theories of Physics(ko)](./MP/topos.html)
 
 <div class="pagination">
   <a href="{{ '/index.html' | relative_url }}" class="prev-button">Previous</a>

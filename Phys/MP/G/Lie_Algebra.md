@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2024-04-19
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Poincare Group, Lie Groups and Lie Algebras
 
@@ -137,5 +140,5 @@ is Lorentz group(rotation + boosts) + translations
 [Lie groups, algebras, brackets](https://www.youtube.com/playlist?list=PLDcSwjT2BF_WDki-WvmJ__Q0nLIHuNPbP)
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

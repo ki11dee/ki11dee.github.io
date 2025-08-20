@@ -4,12 +4,9 @@ layout: default
 
 # Lagrangian and Hamiltonian Formalisms
 
-under construction :/
-
-
+TBA
 
 ----
-## References
 
 [Classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
 

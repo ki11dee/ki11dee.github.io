@@ -6,7 +6,9 @@ layout: default
 
 - [What is Science, really...?](./What_Is.html)
 - [What is Time?](./time.html)
-- [What Does It Mean to Measure Physical Quantities?](measure.html)
+- [Is Quantum Field Real?](./field.html)
+- [Measuring Physical Quantities](measure.html)
+- [Understanding Nature](./nature.html)
 - [Theory, Model and Reality](./model.html)
 - [Induction in Science](./induction.html)
 - [Emergence in Physics(ko)](./emergence.html)

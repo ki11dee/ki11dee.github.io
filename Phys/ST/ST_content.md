@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Electromagnetism and Optics
+# Particles, Strings and Beyond
 
-![Map of ED](/assets/img/maped.png)
+![x](theoryX.png)
 
-- [(Classical) Electrodynamics Cheat Sheet](edbasics.html)
 
+TBA
 
 <div class="pagination">
   <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>

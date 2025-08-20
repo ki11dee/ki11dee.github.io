@@ -1,12 +1,15 @@
 ---
 layout: default
+date: 2025-04-18
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Formalisms in Quantum Mechanics
 
 to be uploaded...
 
-## O. Beyond Wave Functions
+## Beyond Wave Functions
 
 | mathematical arenas | Classical mechanics | Quantum Mechanics |
 |---------------------|---------------------|-------------------|
@@ -124,15 +127,15 @@ tba
 tba
 
 
-## 1. Quantum Hypothesis
+## Quantum Hypothesis
 
 At the end of the 19th century and the beginning of the 20th century, experimental observations showed that particles exhibit wave-like properties, which could not be explained by classical Newtonian mechanics. These phenomena triggered the birth of quantum mechanics, a new physics paradigm fundamentally based on the quantum hypothesis.
 
-### 1.1. Kinematical Hilbert Space
+### 1. Kinematical Hilbert Space
 
 At a given time $t$, the state of a system is described by a vector $\ket{\Psi(t)}$ belonging to a Hilbert vector space $\mathcal{H}$ (a complete space endowed with an inner product). The space $\mathcal{H}$ is called the **state space**, and the vector $\ket{\Psi(t)}$ is called the **state vector**.
 
-### 1.2. Observables and Operators
+### 2. Observables and Operators
 
 Quantum mechanics relies fundamentally on the quantum hypothesis, part of which states that classical observables (such as the dynamical variables representing the system, e.g., position $\vec{x}=(x_1,x_2,x_3)$ and conjugate momentum $\vec{p}=(p_1,p_2,p_3)$) correspond to linear Hermitian operators $\hat{x}_i, \hat{p}_i$ defined on the Hilbert space $\mathcal{H}$. These operators satisfy the commutation relation: $$
 [x_i, p_i] = i\hbar$$.
@@ -180,7 +183,7 @@ If we represent the Hamiltonian vector field as $$X_H=\dot{q}_i\frac{\partial}{\
 
 The classical observable $F(x_i,p_i)$ corresponds in quantum mechanics to the operator $F(\hat{x}_i,\hat{p}_i)$ (denoted $\hat{F}$).
 
-### 1.3. Temporal Evolution of the State Vector: Schrödinger Equation
+### 3. Temporal Evolution of the State Vector: Schrödinger Equation
 
 The temporal evolution of the state vector $\ket{\Psi(t)}$ is described by the operator corresponding to the Hamiltonian function $H(x_i,p_i)$:
 
@@ -188,7 +191,7 @@ $$
 i\hbar\frac{\partial}{\partial t}\ket{\Psi(t)}=H(\hat{x}_i,\hat{p}_i)\ket{\Psi(t)}.
 $$
 
-### 1.4. Measurement Values and Eigenvalues
+### 4. Measurement Values and Eigenvalues
 
 When measuring an observable $F$, the measured value is one of the eigenvalues $a_1,\dots$ of operator $\hat{F}$. The eigenvectors $\ket{a_i}$ corresponding to these eigenvalues form a complete orthonormal basis in $\mathcal{H}$. Upon measurement, if the observed value is $a_i$, the system's state collapses from $\ket{\Psi}$ to $\ket{a_i}$.
 
@@ -203,11 +206,11 @@ Here, $\Phi$ is a dense subspace of $\mathcal{H}$ satisfying $$\hat{x}(\Phi)\sub
 
 ----
 
-### 1.5. Probabilistic Interpretation of Observables
+### 5. Probabilistic Interpretation of Observables
 
 When a system is in state $\ket{\Psi(t)}$, the probability of observing the eigenvalue $a_i$ of observable $F$ at time $t$ is $\|\braket{a_i\|\Psi(t)}\|^2$.
 
-## 2. Structure of Quantum Mechanics
+## Structure of Quantum Mechanics
 
 1. From postulate 4, any state $\ket{\Psi(t)}$ can be expanded as $$\ket{\Psi(t)}=\sum_i c_i\ket{a_i}$$, with coefficients $$c_i=\braket{a_i\|\Psi(t)}$$. According to postulate 5, $\|c_i\|^2$ is interpreted as the probability of obtaining measurement outcome $a_i$. This can also be expressed as $$I=\sum_i\ket{a_i}\bra{a_i}$$, where $I$ is the identity operator. The expectation value of an observable $A$ is computed as $\braket{\hat{A}}=\braket{\Psi\|\hat{A}\|\Psi}$.
 
@@ -221,7 +224,7 @@ When a system is in state $\ket{\Psi(t)}$, the probability of observing the eige
 
 6. Operators and states in Heisenberg and Schrödinger pictures differ in temporal dependence. The Heisenberg equation of motion for observables is $\frac{d}{dt}\hat{A}_H(t)=\frac{1}{i\hbar}[\hat{A}_H(t),\hat{H}]$.
 
-## 3. Simple Harmonic Oscillator
+## Simple Harmonic Oscillator
 
 Consider a mass $m$ attached to a spring with spring constant $k$. The Hamiltonian of this system is given by $H = \frac{p^2}{2m} + k\frac{q^2}{2}$. By defining new variables as $\omega^2 := \frac{k}{m}, \quad Q := \sqrt{\frac{m\omega}{\hbar}}q, \quad P := \sqrt{\frac{1}{m\hbar\omega}}p$, the Hamiltonian can be expressed in the form:
 

@@ -1,7 +1,9 @@
 ---
 layout: default
+date: 2025-01-24
 ---
 
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Linear Algebra Basics
 
@@ -168,5 +170,5 @@ Becasue we arbitrarily set the eigenvectors orthognal, so $S^T=S^{-1}$. If inclu
 - If eigenvalues are not distinct, can eigenvectors for repeated eigenvalues form a linearly independent set? > Use geometric reasoning. (How?) [related topic: characteristic polynomial](https://en.wikipedia.org/wiki/Characteristic_polynomial)
 
 <div class="pagination">
-  <a href="{{ '/Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

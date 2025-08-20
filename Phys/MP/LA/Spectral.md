@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2025-01-25
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Spectral Theory of Linear Operators
 
@@ -26,5 +29,5 @@ Instead of relying on a basis, it makes more sense to focus on the relations bet
 [Mathematical Background of Spectral Theory](https://en.wikipedia.org/wiki/Spectral_theory)
 
 <div class="pagination">
-  <a href="{{ '/Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

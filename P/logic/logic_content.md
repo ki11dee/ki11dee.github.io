@@ -7,11 +7,13 @@ layout: default
 ![l](https://pbs.twimg.com/media/Gvh4yM_akAEYhlU?format=jpg&name=large)
 
 
-
-
-- [Formal logic basics]
-
-- [Gödel's Incompleteness Theorems]
+- [Formal logic basics](./lbasics.html)
+  - [Predicate Logic]
+  - [Axiomatic Set Theory]
+  - [Recursion Theory and Computability]
+  - [Gödel's Incompleteness Theorems]
+  - [Model Theory]
+  - [Contemporary Set Theory]
 
 - Models of Computation
     - [Turing Machines]
@@ -32,12 +34,7 @@ layout: default
     - Nonregular Languages
     - Communication Complexity
 
-- [Set theory]
-
-- [Effectiveness and Computability]
-- [Compactness and Löwenheim-Skolem Theorem]
 - [Is the World Deterministic?]
-
 
 
 - [Modal Logic]

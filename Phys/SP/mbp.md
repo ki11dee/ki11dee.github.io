@@ -1,6 +1,10 @@
 ---
 layout: default
+date: 2025-04-18
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
+
 # Quantum Many-Body Physics
 
 (to be uploaded)

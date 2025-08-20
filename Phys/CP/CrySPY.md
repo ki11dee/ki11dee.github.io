@@ -1,6 +1,13 @@
 ---
 layout: default
+date: 2024-11-21
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
+
+
+ceased
+
 
 # CrySPY
 

@@ -1,13 +1,16 @@
 ---
 layout: default
+date: 2025-04-18
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Path Integral and Canonical Quantization
 
 under construction :/
 
 
-## 0. Intro to Quantum Field Theory
+## Intro to Quantum Field Theory
 
 To describe microscopic physical phenomena involving particles moving at speeds close to that of light, both special relativity and quantum mechanics are required. However, these two theories have fundamental inconsistencies. For instance, quantum mechanics, through the uncertainty principle, suggests that the energy of a closed system can fluctuate slightly for extremely short periods. According to special relativity, fluctuations in energy imply fluctuations in mass, meaning mass can momentarily appear or disappear. Indeed, particle physics experiments involving high-energy collisions have confirmed phenomena such as the creation and annihilation of electron-positron pairs, where energy transforms into mass and back. Yet, conventional quantum mechanics lacks a framework to explain such processes. While quantum mechanics can describe phenomena unexplained by classical mechanics, such as quantized energy levels, ground state energies, and tunneling effects for a single electron performing simple harmonic oscillation (SHO), it remains strictly a theory of single-particle systems. Moreover, when an electron scatters off a proton, its wavefunction remains essentially unchanged afterward; this framework cannot account for the creation of new particles, such as positrons, during collisions.  
 These limitations of classical quantum mechanics must be overcome through a more integrated theory capable of describing particle creation and annihilation processes using the mass-energy equivalence principle of special relativity.  
@@ -113,7 +116,7 @@ Thus, defining commutation relations for $\hat{\Psi}(t,x)$ first enables derivin
 
 This process of redefining a dynamical field into operators describing particle creation and annihilation, endowed with suitable commutation relations, defines a **quantized field (quantum field)**.
 
-## 1. Canonical Quantization of Dynamical Fields
+## Canonical Quantization of Dynamical Fields
 
 Let's formally describe the concept of quantum fields. Using the classical Hamiltonian formalism for a dynamical field, we explore its quantization.
 

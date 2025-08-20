@@ -4,9 +4,7 @@ layout: default
 
 # Operator Theory
 
-to be uploaded
-
-
+TBA
 
 
 
@@ -19,5 +17,5 @@ to be uploaded
 [Creations and Annihilation Operator](https://en.wikipedia.org/wiki/Creation_and_annihilation_operators)
 
 <div class="pagination">
-  <a href="{{ '/Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

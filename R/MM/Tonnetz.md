@@ -1,7 +1,9 @@
 ---
 layout: default
+date: 2024-12-26
 ---
 
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Tonnetz
 

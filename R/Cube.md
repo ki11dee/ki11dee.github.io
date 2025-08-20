@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2024-02-17
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Magic Cubology
 

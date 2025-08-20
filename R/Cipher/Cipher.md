@@ -1,7 +1,9 @@
 ---
 layout: default
+date: 2022-10-23
 ---
 
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Gold Bug and CTM
 

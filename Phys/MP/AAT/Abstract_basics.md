@@ -4,8 +4,8 @@ layout: default
 
 # Abstract Algebra Basics
 
-to be uploaded
+TBA
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

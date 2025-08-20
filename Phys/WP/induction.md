@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2025-04-19
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Induction in Science
 

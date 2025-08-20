@@ -14,8 +14,8 @@ List of main interests:
 
 1. [Mathematics and Physics](./Phys/Phys_content.html)
 
-2. [Philosophy and language](./P/P_content.html)
+2. [Philosophy, language, and Society](./P/P_content.html)
 
-3. [Music, Art Theory and Riddles](./R/R_content.html)
+3. [Music, Art Theory, and Riddles](./R/R_content.html)
 
-4. Artworks, SF, spooky tales, other play \| [experimental mind](https://ki11dee.github.io/popcornparrot/index_en.html)
+4. Artworks, SF, spooky tales, other play \| [experimental mind](https://ki11dee.github.io/popcornparrot/index.html)

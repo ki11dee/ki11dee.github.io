@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2025-08-20
 ---
+
+edit: {{ page.date | date: "%Y.%m.%d" }}
 
 에세이 두 편의 한국어 번역본입니다.
 

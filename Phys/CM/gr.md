@@ -5,11 +5,10 @@ layout: default
 # General Relativity
 
 
-under construction :/
+TBA
 
 
 ----
-## References
 
 *Spacetime and Geometry*, Carroll
 

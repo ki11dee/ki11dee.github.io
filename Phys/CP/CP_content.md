@@ -13,7 +13,7 @@ layout: default
 - [PINN]
 - [Scientific Computation with Python, Matlab and Mathematica]
 - [Numerical Methods for Differential Equations](./numerical_method.html)
-- [Quantum Computation and Quantum Information](./qi.html)
+- [Quantum Computation and Quantum Information Basics](/Phys/Q/qi.html)
 - [Tensor Networks]
 - [Chaos Theory](./chaos.html)
 

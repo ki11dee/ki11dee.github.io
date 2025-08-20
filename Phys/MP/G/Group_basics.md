@@ -1,6 +1,10 @@
 ---
 layout: default
+date: 2024-01-30
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
+
 # Group Theory
 
 ## 1. Symmetry in Groups
@@ -103,5 +107,5 @@ to be uploaded
 
 
 <div class="pagination">
-  <a href="{{ 'Phys/MP/MP_content.html' | relative_url }}" class="prev-button">Previous</a>
+  <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
 </div>

@@ -1,6 +1,9 @@
 ---
 layout: default
+date: 2023-01-31
 ---
+
+date: {{ page.date | date: "%Y.%m.%d" }}
 
 # The Mental World Reflected in Art
 
