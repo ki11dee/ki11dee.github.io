@@ -22,12 +22,12 @@ layout: default
 - [Special Functions](./MP/special_functions.html)
 - [Complex Variable Theory](./MP/Complex%20Variable%20Theory.html)
 
-- Category Theory
+- [Category Theory](./MP/AAT/category.html)
 
 - Game Theory
 
 - [Topology](./MP/AAT/Topology_basics.html)
-- Abstract Algebra
+- [Abstract Algebra](./MP/AAT/Abstract_basics.html)
 - [Differential Form](./MP/AAT/Differential_form.html)
 - Group Theory
     - [Groups, Representing Group Elements by Matrices](./MP/G/Group_basics.html)
@@ -50,8 +50,6 @@ layout: default
 - [Conformal Field Theory](./MP/cft.html)
 
 # Physics
-
-The Maps of Physics are noted items from *No-Nonsense Physics* series and *Teach Yourself Physics* by Schwichtenberg. These books are not for major because they deal with very brief basics of Physics, yet it's simply compact and useful. I refer to his diagrams for better understanding from the moment, but I will make them by myself later.
 
 - [What Is Physics?](./WP/what_content.html)
 - [Classical Mechanics and Relativity](./CM/CM_content.html)

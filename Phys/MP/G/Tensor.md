@@ -10,7 +10,7 @@ Mathematically, A $$(k,\ell)$$-tensor on a vector space $V$ is an element of $$V
 
 
 Physically, a tensor is something obeying physical law under the coordinate transformations.
-Energy and mass for example are rank-0 tensor, which are called scalars. Force (usually in CM) is rank-1 tensor, which is called vector. To be clear, it is $$(1, 0)-$$tensor. Bivector is $$(2,0)-$$ tensor. $Conductivity, elasticity, piezoelastic effect, etc. are rank-2 tensor. Moment of Inertia, metric tensor, Ricci curvature, symplectic form are $$(0,2)-$$tensor.
+Energy and mass for example are rank-0 tensor, which are called scalars. Force (usually in CM) is rank-1 tensor, which is called vector. To be clear, it is $$(1, 0)$$-tensor. Bivector is $$(2,0)$$-tensor. $Conductivity, elasticity, piezoelastic effect, etc. are rank-2 tensor. Moment of Inertia, metric tensor, Ricci curvature, symplectic form are $$(0,2)$$-tensor.
 
 
 TBA

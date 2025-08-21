@@ -8,12 +8,14 @@ layout: default
 - Cipher
     - [Gold Bug and CTM](./Cipher/Cipher.html)
     - [Cryptography](./Cipher/Crypto.html)
-    - [Cicada3301]
+    - [Cicada3301](https://youtu.be/l0z03ntMJio?si=V4f0VvoLvKg8SFap)
 - Mathematical Music
     - [The Riddle Canon](./MM/Riddlecanon.html)
     - [Tonnetz](./MM/Tonnetz.html)
     - [Symmetry in Music](./MM/Sym_in_m.html)
 - [Magic Cubology](./Cube.html)
+
+- [Color Theory](https://jamie-wong.com/post/color/)
 
 
 <div class="pagination">

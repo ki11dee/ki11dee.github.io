@@ -15,6 +15,8 @@ layout: default
   - [Model Theory]
   - [Contemporary Set Theory]
 
+- [Computer algebra](https://en.wikipedia.org/wiki/Computer_algebra)
+
 - Models of Computation
     - [Turing Machines]
     - [Decidable Languages]

@@ -11,6 +11,7 @@ layout: default
 # Social Problems with Dynamics
 
 - [The Emergence of Parochial Altruism and War](altruism.html)
+- [Chichilnisky Impossibility Theorem](chichil.html)
 - [Human is a Huge Instrument?!]
 
 <div class="pagination">

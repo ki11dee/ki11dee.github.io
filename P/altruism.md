@@ -440,16 +440,14 @@ By the mid-20th century, powerful metaphors like the "Prisoner's Dilemma" and th
 
 However, field research by anthropologists in the late 20th century (e.g., Elinor Ostrom's studies of common pool resource management systems) and experiments by psychologists and economists (particularly research by Ernst Fehr and colleagues) directly challenged the cold logic of selfishness. This research demonstrated that humans are not simply selfish, and social preferences showing fairness, generosity, and willingness to punish free-riders were very common even in situations involving significant financial stakes. This became a new puzzle: "How did humans become such cooperative beings?"
 
-The answer to this puzzle involves two key propositions:
+The answer to this puzzle involves two key propositions:  
 
-(1) Humans cooperate not only out of selfishness but because they genuinely care about others' well-being, support social norms, and value ethical behavior.
-
+(1) Humans cooperate not only out of selfishness but because they genuinely care about others' well-being, support social norms, and value ethical behavior.  
 (2) Moral sentiments: Groups with tendencies to cooperate with others and support ethical norms had evolutionary advantages in survival and prosperity compared to other groups, discovered through the legacy of human ancestors.
 
 There are two models to explain this:
 
-1. **Multi-level selection**: Individual altruists may be disadvantaged within groups, but groups with many altruistic members have advantages in survival and prosperity over other groups. Particularly, intergroup competition (warfare) during the Paleolithic era was a powerful evolutionary driver for spreading such altruistic behavior.
-
+1. **Multi-level selection**: Individual altruists may be disadvantaged within groups, but groups with many altruistic members have advantages in survival and prosperity over other groups. Particularly, intergroup competition (warfare) during the Paleolithic era was a powerful evolutionary driver for spreading such altruistic behavior.  
 2. **Gene-culture coevolution**: Humanity created social environments that reduced costs for altruists and increased costs for free-riding through unique institutions and cultural transmission capabilities.
    1. Practices like reproductive leveling and resource sharing mitigated fitness disadvantages experienced by altruists within groups
    2. Mechanisms like coordinated punishment effectively sanctioned norm violators within groups, maintaining cooperation

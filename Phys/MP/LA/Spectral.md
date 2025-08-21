@@ -23,8 +23,7 @@ Instead of relying on a basis, it makes more sense to focus on the relations bet
 
 
 ---
-## References
-[Spectral Theory of Linear Operators] [PDF](./Spectral_Theory.pdf)
+Spectral Theory of Linear Operators [PDF](./Spectral_Theory.pdf)
 
 [Mathematical Background of Spectral Theory](https://en.wikipedia.org/wiki/Spectral_theory)
 

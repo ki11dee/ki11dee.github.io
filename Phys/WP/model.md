@@ -9,7 +9,13 @@ date: {{ page.date | date: "%Y.%m.%d" }}
 
 ![p](sv.png)
 
-(to be uploaded)
+TBA
+
+
+Theory = symbols(language) + syntax(axioms/rules) + semantics(models).
+
+
+---
 
 Regarding the statement <theories are deterministic>, I should primarily think about this in two layers: the framework-level and the system-level.
 For example, the statement <Newtonian mechanics is deterministic> is frequently used among many scientists but actually this alone is somewhat imprecise. At the framework-level, Newtonian mechanics with second-order differential equations might be deterministic, but at the system-level, it is only deterministic when defined a system where:

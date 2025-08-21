@@ -5,9 +5,9 @@ layout: default
 # What is Physics?
 
 - [What is Science, really...?](./What_Is.html)
-- [What is Time?](./time.html)
-- [Is Quantum Field Real?](./field.html)
+- [What is Time?(ko)](./time.html)
 - [Measuring Physical Quantities](measure.html)
+- [Is Quantum Field Real?](./field.html)
 - [Understanding Nature](./nature.html)
 - [Theory, Model and Reality](./model.html)
 - [Induction in Science](./induction.html)

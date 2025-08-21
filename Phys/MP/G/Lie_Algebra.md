@@ -14,7 +14,7 @@ date: {{ page.date | date: "%Y.%m.%d" }}
 
 Let’s see that the Lie algebra of the double cover of the Lorentz group consists of two copies of the $SU(2)$ Lie algebra.
 
-## 1. Quaternions
+## Quaternions
 
 Quaternions are 4-dimensional complex numbers. Unit quaternions are written as $q = a\mathbf{1} + b\mathbf{i} + c\mathbf{j} + d\mathbf{k}$, satisfying $\mathbf{i}^2 = \mathbf{j}^2 = \mathbf{k}^2 = -1$ and $q^\dagger q = 1$.
 
@@ -43,14 +43,12 @@ Therefore, in conventional vector notation, $\vec{v'} = (\cos 2\theta, \sin 2\th
 
 Now, what if we want to describe rotations in 4 dimensions (i.e., $4 \times 4$ matrices)? There are two options. One is to find even higher-dimensional complex numbers. The other is to attempt using quaternions. In the latter case, something meaningful arises regarding 4D rotations. These are described by 6 parameters, and two unit quaternions together have exactly 6 free parameters. This reveals a deep connection between 4D rotations and **two copies of $SU(2)$**.
 
-## 2. Lie Groups
+## Lie Groups
 
 A Lie group is a group and at the same time a differentiable manifold. The group operation $\circ$ must induce a differential map from the manifold to itself. For example, any group element $A$ must induce a map that sends another element $B$ to $C = AB$ in the group $C$, and this map must be differentiable. Using coordinates, this means the coordinates of $AB$ must be differentiable functions of those of $B$.  
-A manifold $M$ is a set of points that each has a continuous one-to-one map from an open neighborhood to an open subset of $\mathbb{R}^n$. $M$ is locally similar to standard $\mathbb{R}^n$. The map from an open neighborhood of $M$ to $\mathbb{R}^n$ associates each point $P$ in $M$ with an $n$-tuple $(x_1(P), \dots, x_n(P))$, where $x_1(P), \dots, x_n(P)$ are called the coordinates of point $P$. One way to think of an $n$-dimensional manifold is as a set in which every point has $n$ independent coordinates in some neighborhood.  
-For example, the surface of a sphere is a manifold. The surface of a 3D sphere $S^2$ is defined as a set of points in $\mathbb{R}^3$ such that $x^2 + y^2 + z^2 = r^2$ holds. One degree of freedom is eliminated, making it 2-dimensional. Its map onto $\mathbb{R}^2$ is given in usual spherical coordinates, and coordinates are identified as the combination $(\theta, \phi)$. At points like $0$ and $2\pi$ (problematic poles), a one-to-one correspondence is not possible. This shows that a globally valid coordinate system for all points on a manifold generally does not exist — only local coordinates in neighborhoods are valid. For instance, the spherical coordinate map is valid only in the open neighborhood $0 < \phi < \pi$, $0 < \theta < 2\pi$.  
 A **Lie group** is defined as a group $(G, \cdot)$ that has a smooth manifold structure and such that both $G \times G \to G$ and the inversion map $i: G \to G$ (given by $g \mapsto g^{-1}$) are smooth.
 
-## 3. Lie Algebras
+## Lie Algebras
 
 Let us consider a very small transformation that acts on an object so that almost nothing changes. For the identity $I$, an element $g$ close to identity, and a very small number $\epsilon$, let $g(\epsilon) = I + \epsilon X$, where $X$ is an object called a **generator**. Repeating this infinitesimal transformation many times results in the same effect as a finite rotation in the same direction:  
 $h(\theta) = (I + \epsilon X)(I + \epsilon X)\cdots(I + \epsilon X) = (I + \epsilon X)^k$  
@@ -103,7 +101,7 @@ Lie algebra is closed under the Lie braket $[,]$. There is exactly one **disting
     =i\epsilon_{ijk}J_k$.
     
 
-## 4. Representation Theory
+## Representation Theory
 
 ## $SU(2)$
 
@@ -127,7 +125,7 @@ is how the Lorentz transformations $\Lambda$ are defined
 - charge conjugation
 - infinite-dimensional representations
 
-## 5. Poincare Group
+## Poincare Group
 
 is Lorentz group(rotation + boosts) + translations
 

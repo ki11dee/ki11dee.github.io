@@ -7,7 +7,7 @@ date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Complex Variable Theory
 
-## 1. Complex Variables and Functions
+## Complex Variables and Functions
 
 To facilitate integration, complex numbers are introduced. It is important to make effective use of the property that a function must be single-valued.
 
@@ -15,7 +15,7 @@ $$
 e^{i\theta} = \cos{\theta} + i\sin{\theta}
 $$
 
-## 2. Cauchy-Riemann Conditions
+## Cauchy-Riemann Conditions
 
 Can a complex function $f = u(z) + i v(z)$ be differentiated by taking limits, similar to real functions?
 
@@ -43,13 +43,13 @@ Example 2) $z*$ is not analytic
 
 Example 3) Derivative of the logarithm
 
-## 3. Cauchy's Integral Theorem
+## Cauchy's Integral Theorem
 
 ### Contour Integrals
 
 "If $f(z)$ is an analytic function in the region containing the contour $C$, and $C$ is a closed contour, then $\oint_C f(z)dz = 0$."
 
-## 4. Cauchy's Integral Formula
+## Cauchy's Integral Formula
 
 Example) $f(z) = z^n (n \in \mathbb{Z})$
 
@@ -65,9 +65,9 @@ Example 2) $\oint_C \frac{1}{4z^2 - 1}dz$
 
 Example 3) $\oint_C \frac{\sin^2{z}}{(z - a)^4} dz$
 
-## 5. Laurent Expansion
+## Laurent Expansion
 
-[https://complex-analysis.com/content/laurent_series.html](https://www.blogger.com/blog/post/edit/5836959991896979253/6475347748861398325#)
+[lauren_series](https://www.blogger.com/blog/post/edit/5836959991896979253/6475347748861398325#)
 
 ### Taylor Expansion
 
@@ -93,7 +93,7 @@ Example 4) Laurent expansion of $\frac{ze^z}{z-1}$ about $z=1$
 
 Example 5) Laurent expansion of $(z-1)e^{\frac{1}{z}}$ about $z=0$
 
-## 6. Singularities
+## Singularities
 
 ### Poles
 
@@ -111,7 +111,7 @@ Example 2) $f(z) = \ln{(1+z)}$
 
 Example 3) $f(z) = (z^2 - 1)^{1/2}$
 
-## 7. Calculus of Residues
+## Calculus of Residues
 
 ### Residue Theorem
 
@@ -155,7 +155,7 @@ Example) $I = \int_{0}^{\infty} \frac{\sin{x}}{x} dx$
 
 If $\lim_{R \to \infty} f(z) = 0$ for all $z = Re^{i\theta}$ in the region $0 \leq \theta \leq \pi$, then $\lim_{R \to \infty} \int e^{iaz} f(z)dz = 0$, where $a > 0$ and $C$ is a semicircle of radius $R$ in the upper half-plane centered at the origin.
 
-## 8. Evaluation of Definite Integrals
+## Evaluation of Definite Integrals
 
 ### 1. Trigonometric Integrals, Range $(0, 2\pi)$
 

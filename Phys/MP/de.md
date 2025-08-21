@@ -2,8 +2,22 @@
 layout: default
 ---
 
-
 # Differential Equations
+
+
+
+| Boundary condition | Elliptic | Hyperbolic | Parabolic |
+|-------------------|----------|------------|-----------|
+|  | Laplace, Poisson in (x, y) | Wave equation in (x, t) | Diffusion equation in (x, t) |
+| **Cauchy** |  |  |  |
+| Open surface | Unphysical results (instability) | **Unique, stable solution** | Too restrictive |
+| Closed surface | Too restrictive | Too restrictive | Too restrictive |
+| **Dirichlet** |  |  |  |
+| Open surface | Insufficient | Insufficient | **Unique, stable solution** |
+| Closed surface | **Unique, stable solution** | Solution not unique | Too restrictive |
+| **Neumann** |  |  |  |
+| Open surface | Insufficient | Insufficient | **Unique, stable solution** |
+| Closed surface | **Unique, stable solution** | Solution not unique | Too restrictive |
 
 TBA
 

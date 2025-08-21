@@ -6,6 +6,8 @@ layout: default
 
 ![Map of ED](/assets/img/maped.png)
 
+- [Electromagnetic field of an accelerated charge](http://www.tapir.caltech.edu/%7Eteviet/Waves/empulse.html)
+- [Near and Far Field](https://en.wikipedia.org/wiki/Near_and_far_field)
 - [(Classical) Electrodynamics Cheat Sheet](edbasics.html)
 
 

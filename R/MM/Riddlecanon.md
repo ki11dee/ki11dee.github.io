@@ -4,11 +4,9 @@ layout: default
 
 # The Riddle Canon
 
-
-to be uploaded
+TBA
 
 ---
-## References
 
 [PuzzleCanon](https://www.puzzlecanon.com/)
 

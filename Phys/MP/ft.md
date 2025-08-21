@@ -7,7 +7,7 @@ date: {{ page.date | date: "%Y.%m.%d" }}
 
 # Fourier Transforms
 
-## 0. Sturm-Liouville Theory
+## Sturm-Liouville Theory
 
 Our matters of interest are:
 
@@ -48,7 +48,7 @@ If the string is fixed at both ends, the boundary conditions are $u(0,t) = u(L,t
 
 From a physical perspective, the string forms standing wave patterns at specific eigenfrequencies, which depend on the string length $L$, tension $T$, and mass density $\mu$. At specific nodes, the displacement is always zero.
 
-## 1. Fourier Series
+## Fourier Series
 
 The **Fourier series** is defined as a representation of a function or signal as a series of sines and cosines:
 
@@ -88,7 +88,7 @@ $$
 Here, $A_n$ and $B_n$ are Fourier coefficients.
 
 
-## 2. (Continuous) Fourier Transform
+## (Continuous) Fourier Transform
 
 The eigenvalue problems described above generate discrete eigenvalues under finite boundary conditions, which can be represented by Fourier series. However, when a string is infinitely long or boundary conditions are absent, the solution to the wave equation has a continuous frequency spectrum. In such cases, the **Fourier transform** is used.  
 The FT is an *analysis* process, decomposing a complex-valued function $f(x)$ defined in time/space domain  into its constituent frequencies function defined in k-space codomain. It is a linear map of a continuous input function ($\mathbb{R} \rightarrow \mathbb{R}$ or $\mathbb{R} \rightarrow \mathbb{C}$) to continuous output function ($\mathbb{R} \rightarrow \mathbb{C}$). The inverse process is *synthesis*. With an analogy, the Fourier series actually is the synthesis formula which maps a continuous domain (real numbers) to discrete frequency components (integer indices).
@@ -161,7 +161,7 @@ FT may be defined in some cases for non-integrable functions. $f$ need not be in
 
 It is not generally possible to write the IFT as a Lebesque integral, but when both $f$ and $\hat{f}$ are integrable, the inverse equality holds for almost every $x$, so the FT is injective on [$L^1(\mathbf{R})$](https://en.wikipedia.org/wiki/Lp_space).
 
-## 3. Fourier Convolution Theorem
+## Fourier Convolution Theorem
 
 The operation of combining two functions $f(x)$ and $g(x)$ to produce a new function is called [convolution](https://en.wikipedia.org/wiki/Convolution), defined as:
 
@@ -211,12 +211,12 @@ Now assuming a linear response (but for your information, there are other requir
 ### Related Topics
 - [Kramers-Kronig Relation](https://en.wikipedia.org/wiki/Kramers%E2%80%93Kronig_relations)
 
-## 5. [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
+## [Discrete Fourier Transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
 
 In real world, we use digital computers with numerically determined FTs, which consist of values given at a *discrete* set of points. Integrations are therefore converted into  *finite* summations, and the number of the points can be *finite* or *infinite*. 
 The Fourier series deals with periodic continuous functions and consists of infinite frequency components. The **Discrete Fourier Transform (DFT)**, on the other hand, transforms *finite discrete* sampled data into its *finite discrete* frequency components. For a data length of $N$, only $N$ frequency components are calculated, making it widely used in digital signal processing.
 
-## 6. [Laplace Transform](https://en.wikipedia.org/wiki/Laplace_transform#Fourier_transform)
+## [Laplace Transform](https://en.wikipedia.org/wiki/Laplace_transform#Fourier_transform)
 
 The Laplace Transformation is a linear map of a continuous input function ($[0,\infty) \rightarrow \mathbb{R}$ or $[0,\infty) \rightarrow \mathbb{C}$) to a continuous output function ($\mathbb{C} \rightarrow \mathbb{C}$). 
 
@@ -234,25 +234,17 @@ The Fourier transform is a special case of the Laplace transform with $\sigma = 
 
 ### Inverse Laplace Transformation
 
-
-## 7. [Fractional Fourier Transform](https://en.wikipedia.org/wiki/Fractional_Fourier_transform)
-
-
-## 8. Fast Fourier Transform
-FFT is a particular algorithm used in DFT.
-
-## 9. [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
-
-
-## 10. [Fourier Transform Spectroscopy](https://en.wikipedia.org/wiki/Fourier-transform_spectroscopy)
+## Selective Topics
+- [Fractional Fourier Transform](https://en.wikipedia.org/wiki/Fractional_Fourier_transform)
+  - Fast Fourier Transform: a particular algorithm used in DFT.
+- [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform)
+- [Fourier Transform Spectroscopy](https://en.wikipedia.org/wiki/Fourier-transform_spectroscopy)
 
 
 
-(to be modified)
+TBA
 
 ---
-
-## References
 
 [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
