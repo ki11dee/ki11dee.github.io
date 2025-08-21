@@ -7,7 +7,7 @@ layout: default
 TBA
 
 
-Last year I explored the \<Impossibility and the world\> theme and one of the fascinating discoveries I made was [Chichilnisky impossibility theorem](https://chichilnisky.com/wp-content/uploads/1982/11/The-Topological-Equivalence-of-the-Pareto-Condition-and-the-Existence-of-a-Dictator.pdf). This theorem provides a algebraic topological proof of [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), which demonstrates that there's no way to democratically aggregate all members' preferences.
+Last year I explored the \<Impossibility and the world\> theme and one of the fascinating discoveries I made was [Chichilnisky impossibility theorem](https://chichilnisky.com/wp-content/uploads/1982/11/The-Topological-Equivalence-of-the-Pareto-Condition-and-the-Existence-of-a-Dictator.pdf). [This theorem](https://math.uchicago.edu/~shmuel/TSC.pdf) provides a algebraic topological proof of [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), which demonstrates that there's no way to democratically aggregate all members' preferences.
 
 Arrow's theorem states that (assuming all individuals have rational preference systems) there exists no consistent and desirable democratic procedure that satisfies all five conditions. These can be reduced to three key conditions:  
 
@@ -23,15 +23,30 @@ Let's say that two people each pick a point on a circle. A 'social rule' takes t
 - Unanimity(Pareto): if both people pick the same point $x$, the output must be $x$.
 - Anonymity(symmetry): swapping the two people’s names does not change the output.
 
-The space of ordered pairs of points on the circle is a torus. If we mod out by swapping the two people (to reflect anonymity), the torus collapses to a Möbius band. The unanimous cases—where both points are the same—form the boundary circle of that Möbius band.
-
+The space of ordered pairs of points on the circle is a torus. If we mod out by swapping the two people (to reflect anonymity), the torus collapses to a Möbius band. The unanimous cases—where both points are the same—form the boundary circle of that Möbius band.  
 A continuous unanimous rule becomes a continuous map from the Möbius band to the circle that is the identity on the boundary circle. But the boundary circle of a Möbius band “winds around” its center twice; any continuous map extended from the whole band makes the boundary wind an even number of times around the output circle. The identity winds once, which is odd. Contradiction. Therefore, there is no continuous rule satisfying all three properties at once.  
 
-More mathematically rigorous explanation: 
+More mathematically rigorous explanation: Let $X$ the choice space. A (ordinal) preference on $X$ is a $C^{1}$ vector field $p:X\to\mathbb{R}^{n}$ that is (locally) the gradient of a utility $u$ and normalized pointwise to unit length. The set of all such preferences is $P$. A profile is $(p_{1},p_{2})\in P^{2}$. A social aggregation rule is a map $\phi:P^{2}\to P$. The Pareto condition is defined in §2; it implies “respect of unanimity” on the diagonal $D=\{(p,p):p\in P\}$.  
+Given the argument for linear preferences. Writing $\bar P$ for the space of linear preferences, the normalization identifies $\bar P\cong S^{n}$. Hence $\bar P^{2}=(S^{n})^{2}$. When $n=1$, $\bar P^{2}=S^{1}\times S^{1}=T^{2}$ (the 2-torus). For a fixed $p\in \bar P$, the level set $\phi^{-1}(p)\subset (S^{n})^{2}$ meets the diagonal $D=\{(p_{1},p_{2}):p_{1}=p_{2}\}$ in exactly one point if $\phi$ is Pareto.  
 
 
-(under construction...)
+**Theorem 1. Two voters with linear preferences** If $\phi:\bar P^{2}\to\bar P$ is a continuous Pareto rule, then $\phi$ is homotopic to a dictatorial rule (a projection to one coordinate).&#x20;
 
+*Proof.* Fix an arbitrary $p_{0}\in\bar P=S^{n}$ and set $p_{1}=p_{0}$, $p_{2}=-p_{0}$. By continuity and the Pareto property, necessarily, $$\phi(p_{1},p_{2})\in\{p_{0},-p_{0}\}.$$. Without loss of generality, assume $\phi(p_{1},p_{2})=p_{0}$. Then, by continuity, for every $p\in S^{n}$ we have
+
+$$
+\phi(p,-p)=p
+\tag{$\ast$}
+$$
+
+Now define a homotopy $H:(S^{n})^{2}\times[0,1]\to S^{n}$ by $$H(p_{1},p_{2},t)\;=\;\frac{t\,p_{1}+(1-t)\,\phi(p_{1},p_{2})}{\bigl\|\,t\,p_{1}+(1-t)\,\phi(p_{1},p_{2})\,\bigr\|}.$$
+This is well defined because $\phi(p_{1},p_{2})\neq -p_{1}$ for all $(p_{1},p_{2})$ (else $(\ast)$ would fail), so the denominator never vanishes. Clearly, $$H(\,\cdot\,,\,\cdot\,,0)=\phi\quad\text{and}\quad H(\,\cdot\,,\,\cdot\,,1)=\mathrm{pr}_{1},$$ the projection to the first coordinate—a dictatorial rule with agent 1 as dictator. Thus $\phi\simeq\mathrm{pr}_{1}$.  
+
+**Theorem 2. Unrestricted preferences and $k$ voters**
+
+(TBA)
+
+---
 
 The elegant mathematical insight is that when individual preferences are represented as vectors, condition (3) gives us circles. For condition (1) to hold, we need at least two alternatives. And since impossibility with just two alternatives implies impossibility for more, we only need to examine the product space of two circles: a torus surface. But condition (2) requires invariance under any permutation which transforms the torus's fundamental polygon into a Mobius strip. To satisfy both (1) and (3) simultaneously, joining the edges of the Mobius strip should create a circle. But the strip's edge is always twisted. It can never form a circle. Hence, satisfying all three conditions is mathematically impossible.
 
