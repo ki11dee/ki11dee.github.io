@@ -10,6 +10,8 @@ layout: default
 
 # Social Problems with Dynamics
 
+- [Military Science and Economics](./E/E_content.html)
+
 - [The Emergence of Parochial Altruism and War](altruism.html)
 - [Chichilnisky Impossibility Theorem](chichil.html)
 - [Human is a Huge Instrument?!]

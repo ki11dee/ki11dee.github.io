@@ -24,8 +24,6 @@ layout: default
 
 - [Category Theory](./MP/AAT/category.html)
 
-- Game Theory
-
 - [Topology](./MP/AAT/Topology_basics.html)
 - [Abstract Algebra](./MP/AAT/Abstract_basics.html)
 - [Differential Form](./MP/AAT/Differential_form.html)
@@ -61,6 +59,7 @@ layout: default
 - [Particles Physics, String Theory and Beyond](./ST/ST_content.html)
 
 - Fluid Mechanics
+  - [Mathematical theories of lift](https://en.wikipedia.org/wiki/Lift_(force)#Mathematical_theories_of_lift)
 
 - [A Topos Foundation for Theories of Physics(ko)](./MP/topos.html)
 

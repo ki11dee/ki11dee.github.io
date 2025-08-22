@@ -195,7 +195,7 @@ $$
 ### Related Topics
 - [Convolutional Neural Network]()
 
-## 4. Signal-Processing Applications
+## Signal-Processing Applications
 
 $$ 
 \begin{aligned}
