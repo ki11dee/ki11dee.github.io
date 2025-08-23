@@ -17,7 +17,7 @@ layout: default
 
 - [Color Theory](https://jamie-wong.com/post/color/)
 
-- [N-point Perspectives Visualizatio(wip)](pers.html)
+- N-point Perspectives Visualizatio(wip)
 
 
 <div class="pagination">
