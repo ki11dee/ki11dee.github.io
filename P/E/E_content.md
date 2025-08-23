@@ -7,9 +7,12 @@ layout: default
 ![m](https://mathwarsynthesis.weebly.com/uploads/2/5/9/0/25901826/6703658_orig.png)
 
 - [History of Warfare](his.html)
-- [War Gaming]
+- War Games
     - [Steel Panthers](https://www.gamesquad.com/forums/index.php?threads/download-your-winspmbt-v4-5-winspww2-v4-0-and-spwaw-here.63138/)
+    - [TAOW4](https://forums.matrixgames.com/viewtopic.php?t=333411)
     - [PAXsims](https://paxsims.wordpress.com/)
+
+- [Rational Choice Theory]
 
 - [Game Theory]
 

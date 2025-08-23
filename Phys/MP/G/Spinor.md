@@ -4,10 +4,15 @@ layout: default
 
 # Spinor
 
+![s](https://www.mathphysicsbook.com/wp-content/uploads/2021/03/86.gauge-spinor-field-4-1.png)
+
+
 TBA
 
 
 ---
+
+[The Hopf Fibration Explained](https://www.youtube.com/watch?v=qZNTPCMM19s)
 
 [Spinor fields](https://www.mathphysicsbook.com/mathematics/fiber-bundles/gauge-theory/spinor-fields/)
 

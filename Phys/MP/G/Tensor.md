@@ -4,6 +4,9 @@ layout: default
 
 # Tensor
 
+![t](https://qph.cf2.quoracdn.net/main-qimg-5d56d790fbf3502f5dd97b53360235cb)
+
+
 Naively, a [tensor](https://en.wikipedia.org/wiki/Tensor) is a generalized collection of vector and covector using the [tensor product](https://en.wikipedia.org/wiki/Tensor_product). It is an element of a space built from vectors and covectors via tensor products (and linear combinations).
 
 Mathematically, A $$(k,\ell)$$-tensor on a vector space $V$ is an element of $$V^{\otimes k}\otimes (V^*)^{\otimes \ell}$$ (equivalently a multilinear map $$(V^*)^k\times V^\ell\to\mathbb{F}$$) characterized by the universal property of the tensor product.

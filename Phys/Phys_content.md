@@ -24,7 +24,9 @@ layout: default
 
 - [Category Theory](./MP/AAT/category.html)
 
-- [Topology](./MP/AAT/Topology_basics.html)
+- Topology
+  - [General Topology](./MP/AAT/gtopology.html)
+  - [Algebraic Topology](./MP/AAT/atopology.html)
 - [Abstract Algebra](./MP/AAT/Abstract_basics.html)
 - [Differential Form](./MP/AAT/Differential_form.html)
 - Group Theory
