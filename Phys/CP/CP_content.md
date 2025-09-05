@@ -11,9 +11,13 @@ layout: default
     - [CrySPY(ceased)](./CrySPY.html)
     - [InvDesFlow(ceased)](./inv.html)
 - [PINN]
+
+- [Lattice QFT](lft.html)
+- [Tensor Networks]
+
+
 - [Numerical Methods for Differential Equations](./numerical_method.html)
 - [Quantum Computation]
-- [Tensor Networks]
 - [Chaos Theory](./chaos.html)
 
 <div class="pagination">
