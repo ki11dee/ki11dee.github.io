@@ -4,14 +4,21 @@ layout: default
 
 # Differential Form
 
+Forms are multilinear mappings from a vector spce to scalars.
+
+- bilinear form: a bilinear map from two vectors to $\mathbb{R}$
+- multilinear form: generalization of the bilinear map to take any number of vectors
+- quadratic form(symmetricl bilinear form): a homogeneous polynomial of degree two; the polarization identity gives a 1-1 correspondence with it
+- algebraic form(completely symmetric multilinear form): generalization of quadratic form to arbitrary degree
+- 2-form: an anti-symmetric bilinear form
+- exterior form(completely anti-symmetric multilinear form)
+
 Examples of k-forms in [differential forms](https://en.wikipedia.org/wiki/Differential_form):
 
 - 0-form: $\varphi=x^2y+e^z$
 - 1-form: $\varphi=x^2dx+(yz+1)dz$
 - 2-form: $\varphi=xyzdydz+xe^ydzdx+2dxdy$
 - 3-form: $\varphi=(x^2+xyz+z^3)dxdydz$
-
-Here is the English translation:
 
 ## Hodge star
 * orientation (vector space): choosing a direction for bases in a real $n$-dimensional $V$. Specifically, selecting one of two equivalence classes formed by grouping ordered bases under transformations with $\det>0$. (= choosing the $GL^+(n)$ side among the two connected components of $GL(n,\mathbb{R})$)

@@ -44,6 +44,16 @@ Energy and mass for example are rank-0 tensor, which are called scalars. Force (
 
 
 ### Graded algebras
+- $\mathbb{Z}_2$ graded algebra $A=A_+\oplus A_-$
+    - $A_rA_s=A_{r+s}(\text{mod 2}),\quad r,s=0,1,\quad A_0=A_+,\quad A_1=A_-$
+    - is graded commutative when : $ab=(-1)^{d(a)d(b)}ba,\quad a,b\in A$ where $d(a)=r$ if $a\in A_r$ is the parity of $a$
+- A generalized used in physics: DeWitt algebra
+    - algebra $B$ of formal series with a unit $e$ and an infinite number of generators $z^I, I\in \mathbb{N}$ with the property $z^Iz^J=-z^Jz^I$
+    - $a=\sum_{p\in \mathbb{N}}a(p),\quad a(p)=\frac{1}{p!}a_{I_1,\dots,I_p}z^{I_1}\cdots z^{I_p}$
+        - $a(0)=a_0e$ is the body of $a$.
+        - $a_s=\sum_{p\geq 1}a(p)$ is its soul.
+        - $a_0,a_{I_0,\dots,I_p}$ are real or complex. $a_{I_0,\dots,I_p}$ is totally antisymmetric in $I_0,\dots,I_p$.
+        - $p$ is the degree of $a(p)$.
 - Fermionic superalgebra is $\mathbb{Z}_2$-graded Lie superalgebra.
 
 ### Clifford algebras

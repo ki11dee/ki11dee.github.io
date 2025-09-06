@@ -7,6 +7,11 @@ layout: default
 ![s](https://www.mathphysicsbook.com/wp-content/uploads/2021/03/86.gauge-spinor-field-4-1.png)
 
 
+
+
+
+
+
 TBA
 
 
@@ -23,6 +28,10 @@ TBA
 [Spinors for Beginners](https://youtube.com/playlist?list=PLJHszsWbB6hoOo_wMb0b6T44KM_ABZtBs&si=HvFXpDoR_mY5SIMH)
 
 [The Mystery of Spinors](https://youtu.be/b7OIbMCIfs4?si=FE22KEzEnqJEgA3f)
+
+
+*Analysis, Manifolds and Physics II*, Y. Choquet-Bauhat
+
 
 <div class="pagination">
   <a href="{{ 'Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>
