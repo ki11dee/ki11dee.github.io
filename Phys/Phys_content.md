@@ -39,7 +39,7 @@ layout: default
     - [Manifolds](./MP/G/Manifolds.html)
       - [Riemannian Manifolds](./MP/G/rm.html)
       - [Fiber Bundles](./MP/G/fb.html)
-    - [Poincare Group, Lie Groups and Lie Algebras](./MP/G/Lie_Algebra.html)
+    - Poincare Group, Lie Groups and Lie Algebras
 
 - [Logic and Computer Science](/P/logic/logic_content.html)
 
