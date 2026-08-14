@@ -16,26 +16,14 @@ layout: default
 
 - Lecture notes on [QFT](https://www.damtp.cam.ac.uk/user/tong/qft.html)
 
-  - [Path Integral and Canonical Quantization](./cq.html)
-  - [Spin 0](./qft0.html)
-  - [Spin 1/2](./qft12.html)
-  - [Spin 1](./qft1.html)
-  - [Quantum Electrodynamics]
-  - [Feynman Rules](./feynmandiag.html)
-  - [Interaction of Quantum fields and Infinity]
-  - [Renormalization]
-  - [Spontaneous Symmetry Breaking]
+  - Quantizations
+  - Quantum Electrodynamics
+  - Renormalization
+  - Symmetry Breaking
 - [Gauge Theory](./gauge.html)
 - [Supersymmetry](./susy.html)
-  - [Weyl, Majorana, and Dirac Spinors]
-  - [Supersymmetric Lagrangian]
-  - [Supersymmetric Algebra]
-  - [Wess-Zumino Model]
-  - [Supersummetric Gauge Theories]
-  - [Superspace Formalism]
-  - [Left-Chiral Superfields]
-  - [SUSY Breaking]
-- [Solitons]
+  - Supersymmetric QCD
+- String Theory
 
 <div class="pagination">
   <a href="{{ '/Phys/Phys_content.html' | relative_url }}" class="prev-button">Previous</a>

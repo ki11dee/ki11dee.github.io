@@ -33,7 +33,7 @@ layout: default
 - [Abstract Algebra](./MP/AAT/Abstract_basics.html)
 - [Differential Form](./MP/AAT/df.html)
 - Group Theory
-    - [Groups, Representing Group Elements by Matrices](./MP/G/Group_basics.html)
+    - [Groups](./MP/G/Group_basics.html)
     - [Tensor](./MP/G/Tensor.html)
     - [Spinor](./MP/G/Spinor.html)
     - [Manifolds](./MP/G/Manifolds.html)
