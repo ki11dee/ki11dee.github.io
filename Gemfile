@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.2.2"  # or 3.3.0
+ruby "3.3.12"
 
 gem "jekyll", "~> 4.3.2"
 gem "webrick", "~> 1.7"  # need Ruby 3+
